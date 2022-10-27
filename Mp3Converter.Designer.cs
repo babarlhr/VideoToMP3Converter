@@ -36,8 +36,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Mp3Converter";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Video To Mp3 Converter";
+            this.Load += new System.EventHandler(this.MP3ConverterForm_Load);
             this.ResumeLayout(false);
 
         }
