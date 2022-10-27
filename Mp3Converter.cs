@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VideoToMP3Converter
 {
-    public partial class Form1 : Form
+    public partial class Mp3Converter : Form
     {
-        public Form1()
+        public Mp3Converter()
         {
             InitializeComponent();
         }
