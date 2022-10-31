@@ -22,9 +22,11 @@ namespace VideoToMP3Converter
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnOpenFile_Click(object sender, EventArgs e)
         {
-
+            
         }
+
+      
     }
 }
